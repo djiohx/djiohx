@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @djiohx
+- 👀 I’m interested in WEB Development
+- 🌱 I’m currently learning HTML, CSS, JavaScript
